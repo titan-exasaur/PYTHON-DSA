@@ -53,7 +53,7 @@ class DoublyLinkedList:
             self.head.prev = new_node
             self.head = new_node
         self.length += 1
-
+    
 
         
 my_doubly_linked_list = DoublyLinkedList(18)
